@@ -14,6 +14,7 @@
 # 課程筆記區
 # 作業連結區
 ## 作業一
+  https://github.com/EnLin0903/LATIA112-1/blob/main/HW1/HW1_40975029H.ipynb
 ## 作業二
 ## 作業三
 # 專題連結區

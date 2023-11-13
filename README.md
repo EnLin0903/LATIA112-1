@@ -16,7 +16,7 @@
 ## 作業一
   https://github.com/EnLin0903/LATIA112-1/blob/main/HW1/HW1_40975029H.ipynb
 ## 作業二
-  https://github.com/EnLin0903/LATIA112-1/tree/main/HW2
+  https://github.com/EnLin0903/LATIA112-1/tree/main/HW2  
   (Scrapy爬蟲程式碼位於Scrapy/ptt_education/spiders/education_spider.py)
 ## 作業三
 # 專題連結區

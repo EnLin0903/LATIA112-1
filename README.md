@@ -19,4 +19,5 @@
   https://github.com/EnLin0903/LATIA112-1/tree/main/HW2  
   (Scrapy爬蟲程式碼位於Scrapy/ptt_education/spiders/education_spider.py)
 ## 作業三
+  https://github.com/EnLin0903/LATIA112-1/tree/main/HW3  
 # 專題連結區
